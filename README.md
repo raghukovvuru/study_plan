@@ -68,7 +68,9 @@ _Number of Classes currently enrolled in : 6_
 - Learn Enough Action Cable to be Dangerous
 - Official React Docs
 - SICP (programming TYCS)
+- Computer Systems: A Programmer's Perspective (Architecture TYCS)
 - The Algorithm Design Manual (algorithms TYCS)
+
 
 ### Practice
 
