@@ -9,7 +9,7 @@ _Number of Classes currently enrolled in : 6_
 | ORDER | GUIDE       | Course                                                     | Duration      | Start Date | Status   | Due Date |
 | ----- | ----------- | ---------------------------------------------------------- | ------------- | ---------- | -------- | -------- |
 | 1 A   | OSSU / P1xt | Intro to Computer Science CS50                             | 12 weeks      | May 21     | Enrolled | Aug 13   |
-| 1 B   | OSSU        | How to Code - Simple Data                                  | 7 weeks       | May 21     | Enrolled | July 9   |
+| 1 B   | OSSU        | How to Code - Simple Data                                  | 7 weeks       | May 21     | Complete | July 9   |
 | 2 A   | OSSU / P1xt | Intro to Computer Science and Programming using Python MIT | 9 weeks       | June 3     | Enrolled | July 23  |
 | 3 B   | OSSU        | How to Code - Complex Data                                 | 6 weeks       | July 16    |          | Aug 27   |
 | 4 A   | P1xt        | Web Programming with Python and JavaScript CS50 pt2        | 12 weeks      | Aug 20     |          | Nov 12   |
