@@ -4,7 +4,7 @@
 
 ### Programming
 
-_Number of Classes currently enrolled in : 6_
+_Number of Classes currently enrolled in : 3_
 
 | ORDER | GUIDE       | Course                                                     | Duration      | Start Date | Status   | Due Date |Completed On |
 | ----- | ----------- | ---------------------------------------------------------- | ------------- | ---------- | -------- | -------- | ----------- |
