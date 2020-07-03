@@ -4,7 +4,7 @@
 
 ### Programming
 
-_Number of Classes currently enrolled in : 4_
+_Number of Classes currently enrolled in : 3_
 
 | ORDER | GUIDE       | Course                                                     | Duration      | Start Date | Status   | Due Date | Completed |
 | ----- | ----------- | ---------------------------------------------------------- | ------------- | ---------- | -------- | -------- | --------- |
@@ -45,7 +45,7 @@ _Number of Classes currently enrolled in : 4_
 | ----- | ------------------ | -------------------------------- | -------- | ---------- | -------- | -------- | --------- |
 | 1 C   | OSSU               | High School Math - Khan Academy  | 2 weeks  | May 21     | Complete | June 3   | June 3    |
 | 1 D   | OSSU / P1xt        | How to Learn Math: For Students  | 6 weeks  | May 21     | Complete | July 2   | June 25   |
-| 2 B   | OSSU               | Precalc                          | 5 weeks  | June 3     | Enrolled | July 9   |           |
+| 2 B   | OSSU               | Precalc                          | 5 weeks  | June 3     | Complete | July 9   | June 30   |
 | 2 C   | P1xt               | Precalc (khan)                   | 5 weeks  | June 3     | Enrolled | July 9   |           |
 | 3 B   | P1xt               | Calc 1 (khan)                    | 12 weeks | July 9     |          | Oct 1    |           |
 | 3 C   | OSSU               | Calc 1 A                         | 13 weeks | July 9     |          | Oct 8    |           |
