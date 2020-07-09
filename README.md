@@ -4,14 +4,14 @@
 
 ### Programming
 
-_Number of Classes currently enrolled in : 2_
+_Number of Classes currently enrolled in : 5_
 
 | ORDER | GUIDE       | Course                                                     | Duration      | Start Date | Status   | Due Date | Completed |
 | ----- | ----------- | ---------------------------------------------------------- | ------------- | ---------- | -------- | -------- | --------- |
 | 1 A   | OSSU / P1xt | Intro to Computer Science CS50                             | 12 weeks      | May 21     | Enrolled | Aug 13   |           |
 | 1 B   | OSSU        | How to Code - Simple Data                                  | 7 weeks       | May 21     | Complete | July 9   | June 25   |
 | 2 A   | OSSU / P1xt | Intro to Computer Science and Programming using Python MIT | 9 weeks       | June 3     | Enrolled | July 23  |           |
-| 3 A   | OSSU        | How to Code - Complex Data                                 | 6 weeks       | July 9     |          | Aug 20   |           |
+| 3 A   | OSSU        | How to Code - Complex Data                                 | 6 weeks       | July 9     | Enrolled | Aug 20   |           |
 | 4 A   | P1xt        | Web Programming with Python and JavaScript CS50 pt2        | 12 weeks      | Aug 20     |          | Nov 12   |           |
 | 4 B   | OSSU        | Build a Modern Computer Pt 1                               | 6 weeks       | Aug 20     |          | Oct 1    |           |
 | 5 A   | OSSU        | Software Construction - Data Abstraction                   | 6 weeks       | Aug 27     |          | Oct 8    |           |
@@ -47,8 +47,8 @@ _Number of Classes currently enrolled in : 2_
 | 1 D   | OSSU / P1xt        | How to Learn Math: For Students  | 6 weeks  | May 21     | Complete | July 2   | June 25   |
 | 2 B   | OSSU               | Precalc                          | 5 weeks  | June 3     | Complete | July 9   | June 30   |
 | 2 C   | P1xt               | Precalc (khan)                   | 5 weeks  | June 3     | Complete | July 9   | July 4    |
-| 3 B   | P1xt               | Calc 1 (khan)                    | 12 weeks | July 9     |          | Oct 1    |           |
-| 3 C   | OSSU               | Calc 1 A                         | 13 weeks | July 9     |          | Oct 8    |           |
+| 3 B   | P1xt               | Calc 1 (khan)                    | 12 weeks | July 9     | Enrolled | Oct 1    |           |
+| 3 C   | OSSU               | Calc 1 A                         | 13 weeks | July 9     | Enrolled | Oct 8    |           |
 | 5 B   | P1xt               | Calc 2 (khan)                    | 9 weeks  | Oct 1      |          | Dec 3    |           |
 | 6 B   | OSSU               | Calc 1 B                         | 13 weeks | Oct 8      |          | Jan 7    |           |
 | 9 A   | OSSU               | Calc 1 C                         | 6 weeks  | Jan 7      |          | Feb 18   |           |
@@ -60,17 +60,17 @@ _Number of Classes currently enrolled in : 2_
 
 - ~~MDN HTML~~
 
+- SICP (programming TYCS)
 - MDN CSS
+- Learn Enough Ruby
+- Learn Enough Rails
 - MDN JS Guide
 - YDKJS Book 1 : Up & Going
 - YDKJS Book 2 : Scope & Closures
 - YDKJS Book 3 : this & Object Prototypes
-- Learn Enough Ruby to be Dangerous
-- Ruby on Rails Tutorial
-- Learn Enough Action Cable to be Dangerous
+- Learn Enough Action Cable
 - Official React Docs
 - Eloquent JS
-- SICP (programming TYCS)
 - Computer Systems: A Programmer's Perspective (Architecture TYCS)
 - The Algorithm Design Manual (algorithms TYCS)
 
