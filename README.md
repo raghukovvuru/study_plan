@@ -4,13 +4,13 @@
 
 ### Programming
 
-_Number of Classes currently enrolled in : 5_
+_Number of Classes currently enrolled in : 4_
 
 | ORDER | GUIDE       | Course                                                     | Duration      | Start Date | Status   | Due Date | Completed |
 | ----- | ----------- | ---------------------------------------------------------- | ------------- | ---------- | -------- | -------- | --------- |
 | 1 A   | OSSU / P1xt | Intro to Computer Science CS50                             | 12 weeks      | May 21     | Enrolled | Aug 13   |           |
 | 1 B   | OSSU        | How to Code - Simple Data                                  | 7 weeks       | May 21     | Complete | July 9   | June 25   |
-| 2 A   | OSSU / P1xt | Intro to Computer Science and Programming using Python MIT | 9 weeks       | June 3     | Enrolled | Aug 04   |           |
+| 2 A   | OSSU / P1xt | Intro to Computer Science and Programming using Python MIT | 9 weeks       | June 3     | Complete | Aug 04   | July 23   |
 | 3 A   | OSSU        | How to Code - Complex Data                                 | 6 weeks       | July 9     | Enrolled | Aug 20   |           |
 | 4 A   | P1xt        | Web Programming with Python and JavaScript CS50 pt2        | 12 weeks      | Aug 20     |          | Nov 12   |           |
 | 4 B   | OSSU        | Build a Modern Computer Pt 1                               | 6 weeks       | Aug 20     |          | Oct 1    |           |
@@ -61,7 +61,7 @@ _Number of Classes currently enrolled in : 5_
 - ~~MDN HTML~~
 
 - SICP (programming TYCS)
-- MDN CSS
+- ~~MDN CSS~~
 - Learn Enough Ruby
 - Learn Enough Rails
 - MDN JS Guide
