@@ -13,7 +13,7 @@ _Number of Classes currently enrolled in : 2_
 | 2 A   | OSSU / P1xt | Intro to Computer Science and Programming using Python MIT | 9 weeks       | June 3     | Complete | Aug 5    | July 23   |
 | 3 A   | OSSU        | How to Code - Complex Data                                 | 6 weeks       | July 9     | Complete | Aug 20   | Aug 13    |
 | 4 A   | P1xt        | Web Programming with Python and JavaScript CS50 pt2        | 12 weeks      | Aug 20     |          | Nov 12   |           |
-| 4 B   | OSSU        | Build a Modern Computer Pt 1                               | 6 weeks       | Aug 20     |          | Oct 1    |           |
+| 4 B   | OSSU        | [Build a Modern Computer Pt 1](https://www.coursera.org/learn/build-a-computer)                               | 6 weeks       | Aug 24     |          | Oct 12   |           |
 | 5 A   | OSSU        | Software Construction - Data Abstraction                   | 6 weeks       | Aug 27     |          | Oct 8    |           |
 | 6 A   | OSSU        | Build a modern Computer Pt 2                               | 6 weeks       | Oct 8      |          | Nov 19   |           |
 | 7 A   | P1xt        | Mobile App Development with React Native CS50 Pt 3         | 12 weeks      | Nov 19     |          | Feb 11   |           |
