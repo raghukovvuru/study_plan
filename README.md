@@ -1,5 +1,13 @@
 # Study Plan
 
+[Teach Yourself Computer Science](https://teachyourselfcs.com/) (TYCS)
+
+[P1xt Guides: Computer Science and Programming - Version 4.0](https://github.com/P1xt/p1xt-guides)
+
+[Open Source Society University](https://github.com/ossu/computer-science) (OSSU)
+
+---
+
 ## Tier 1
 
 ### Programming
@@ -59,17 +67,18 @@ _Number of Classes currently enrolled in : 3_
 ### Readings
 
 - ~~MDN HTML~~
-- SICP (programming TYCS)
+- [SICP](https://sarabander.github.io/sicp/) (programming TYCS)
 - ~~MDN CSS~~
+- [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - Learn Enough Ruby
 - Learn Enough Rails
-- MDN JS Guide
+- [MDN JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript#JavaScript_guide)
 - YDKJS Book 1 : Up & Going
 - YDKJS Book 2 : Scope & Closures
 - YDKJS Book 3 : this & Object Prototypes
 - Learn Enough Action Cable
 - Official React Docs
-- Eloquent JS
+- [Eloquent JS](https://eloquentjavascript.net/)
 - Computer Systems: A Programmer's Perspective (Architecture TYCS)
 - The Algorithm Design Manual (algorithms TYCS)
 
