@@ -12,7 +12,7 @@
 
 ### Programming
 
-_Number of Classes currently enrolled in : 3_
+_Number of Classes currently enrolled in : 4_
 
 | ORDER | GUIDE       | Course                                                                                                                                      | Duration      | Start Date | Status   | Due Date | Completed |
 | ----- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- | -------- | -------- | --------- |
