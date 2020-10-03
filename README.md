@@ -12,7 +12,7 @@
 
 ### Programming
 
-_Number of Classes currently enrolled in : 4_
+_Number of Classes currently enrolled in : 5_
 
 | ORDER | GUIDE       | Course                                                                                                                                      | Duration      | Start Date | Status   | Due Date | Completed |
 | ----- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- | -------- | -------- | --------- |
@@ -21,9 +21,9 @@ _Number of Classes currently enrolled in : 4_
 | 2 A   | OSSU / P1xt | [Intro to Computer Science and Programming using Python MIT](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | 9 weeks       | June 3     | Complete | Aug 5    | July 23   |
 | 3 A   | OSSU        | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)                                                           | 6 weeks       | July 9     | Complete | Aug 20   | Aug 13    |
 | 4 A   | P1xt        | [Web Programming with Python and JavaScript CS50 pt2](https://cs50.harvard.edu/web/2020/)                                                   | 12 weeks      | Aug 20     | Enrolled | Nov 12   |           |
-| 4 B   | OSSU        | [Build a Modern Computer Pt 1](https://www.coursera.org/learn/build-a-computer)                                                             | 6 weeks       | Aug 24     | Enrolled | Oct 12   |           |
-| 5 A   | OSSU        | [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction)                               | 6 weeks       | Aug 27     |          | Oct 8    |           |
-| 6 A   | OSSU        | Build a modern Computer Pt 2                                                                                                                | 6 weeks       | Oct 8      |          | Nov 19   |           |
+| 4 B   | OSSU        | [Build a Modern Computer Pt 1](https://www.coursera.org/learn/build-a-computer)                                                             | 6 weeks       | Aug 24     | Complete | Oct 8    | Oct 3     |
+| 5 A   | OSSU        | [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction)                               | 6 weeks       | Aug 27     | Enrolled | Oct 8    |           |
+| 6 A   | OSSU        | [Build a modern Computer Pt 2](https://www.coursera.org/learn/nand2tetris2/)                                                                | 6 weeks       | Oct 8      | Enrolled | Nov 19   |           |
 | 6 B   | OSSU        | [Software Construction - Object Oriented Design](https://www.edx.org/course/software-construction-object-oriented-design)                   | 6 weeks       | Oct 22     |          | Dec 3    |
 | 7 A   | P1xt        | Mobile App Development with React Native CS50 Pt 3                                                                                          | 12 weeks      | Nov 19     |          | Feb 11   |           |
 | 7 B   | OSSU        | Introduction to Computer Networking                                                                                                         | 8 weeks       | Nov 26     |          | Jan 21   |           |
